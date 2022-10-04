@@ -22,8 +22,8 @@ global.APIKeys = {
 global.owner = ['6285875158363']
 global.ownernomer = "6285875158363"
 global.premium = ['6285875158363']
-global.packname = 'Sticker  Naze'
-global.author = 'Naze'
+global.packname = 'Sticker  By'
+global.author = 'Jiysa'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.prefa = ['','!','.','#','&']
 global.sp = ''
@@ -41,7 +41,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: "Infinity"
 }
 global.thumb = fs.readFileSync('./image/naze.jpg')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
